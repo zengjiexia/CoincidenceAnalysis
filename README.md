@@ -1,7 +1,8 @@
 # CoincidenceAnalysis
 Calculate colocalisation of particles detected in two imaging channels.
 
-**The development of this project has stopped. The function of this project would be later included in [DiffractionLimitedAnalysis](https://github.com/zengjiexia/DiffractionLimitedAnalysis)
+**The development of this project has stopped. The function of this project would be later included in [DiffractionLimitedAnalysis](https://github.com/zengjiexia/DiffractionLimitedAnalysis).**
+
 
 Requirements
 ------------
